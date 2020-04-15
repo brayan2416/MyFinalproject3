@@ -1,0 +1,6 @@
+- Add basic functions
+- ask user for name
+
+4/15/20
+ - I already started Making my list of Name of the NBA, I already make my github public. I will continue using
+ My def function and I am planning to keep working to built my game and make it fun.
